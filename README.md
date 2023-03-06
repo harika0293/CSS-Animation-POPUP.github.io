@@ -1,4 +1,4 @@
-# CSS-Animation-POPUP.github.io
+# CSS-Animation-POPUP
 CSS-Animation-POPUP
 
 # Static Website
